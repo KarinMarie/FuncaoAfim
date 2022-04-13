@@ -1,0 +1,12 @@
+C:\Users\Karin Marie\source\repos\FuncaoAfim\FuncaoAfim\bin\Debug\FuncaoAfim.exe.config
+C:\Users\Karin Marie\source\repos\FuncaoAfim\FuncaoAfim\bin\Debug\FuncaoAfim.exe
+C:\Users\Karin Marie\source\repos\FuncaoAfim\FuncaoAfim\bin\Debug\FuncaoAfim.pdb
+C:\Users\Karin Marie\source\repos\FuncaoAfim\FuncaoAfim\obj\Debug\FuncaoAfim.csproj.AssemblyReference.cache
+C:\Users\Karin Marie\source\repos\FuncaoAfim\FuncaoAfim\obj\Debug\FuncaoAfim.Form1.resources
+C:\Users\Karin Marie\source\repos\FuncaoAfim\FuncaoAfim\obj\Debug\FuncaoAfim.Properties.Resources.resources
+C:\Users\Karin Marie\source\repos\FuncaoAfim\FuncaoAfim\obj\Debug\FuncaoAfim.csproj.GenerateResource.cache
+C:\Users\Karin Marie\source\repos\FuncaoAfim\FuncaoAfim\obj\Debug\FuncaoAfim.csproj.CoreCompileInputs.cache
+C:\Users\Karin Marie\source\repos\FuncaoAfim\FuncaoAfim\obj\Debug\FuncaoAfim.exe
+C:\Users\Karin Marie\source\repos\FuncaoAfim\FuncaoAfim\obj\Debug\FuncaoAfim.pdb
+C:\Users\Karin Marie\source\repos\FuncaoAfim\FuncaoAfim\bin\Debug\FuncaoAfim.mdf
+C:\Users\Karin Marie\source\repos\FuncaoAfim\FuncaoAfim\bin\Debug\FuncaoAfim_log.ldf
