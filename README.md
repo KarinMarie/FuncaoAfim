@@ -15,5 +15,5 @@
 <br />
 
      Some resources:
-  - Palette: https://coolors.co/d8e2dc-ffe5d9-ffcad4-f4acb7-9d8189
+  - Palette: https://coolors.co/
   - Converter: https://icoconvert.com/
